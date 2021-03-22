@@ -1,6 +1,6 @@
 ---
 title: "Semester.ly Advisor-Advisee Dashboard"
-excerpt: "Spring 2021<br/><img src='/images/500x300.png'>"
+excerpt: "Spring 2021<br/><img src='/images/semesterly-schedule.png'>"
 collection: portfolio
 ---
 
