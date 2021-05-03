@@ -11,11 +11,11 @@ redirect_from:
 
 Resume
 ======
-* [RESUME](https://boccca2014.github.io/files/Resume_2021.pdf){:style="text-decoration: none"}{:target="_blank"}
+* [Resume](https://boccca2014.github.io/files/Resume_2021.pdf){:style="text-decoration: none"}{:target="_blank"}
 
 LinkedIn
 ======
-* [LINKEDIN](https://www.linkedin.com/in/sebastian-c2022/){:style="text-decoration: none"}{:target="_blank"}
+* [LinkedIn](https://www.linkedin.com/in/sebastian-c2022/){:style="text-decoration: none"}{:target="_blank"}
 
 <!-- Education
 ======

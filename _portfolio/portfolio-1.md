@@ -6,4 +6,4 @@ collection: portfolio
 
 Semester.ly
 ======
-* [SEMESTER.LY](https://www.semester.ly){:style="text-decoration: none"}{:target="_blank"}
+* [Project Site - Spring 2021](http://www.cnds.jhu.edu/courses/cs310/semesterly/){:style="text-decoration: none"}{:target="_blank"}
