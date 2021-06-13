@@ -12,7 +12,7 @@ I'm a Rising Senior pursuing a [Bachelor of Science in Computer Science](https:/
 at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}.
 
 I'm currently the head of [Semester.ly](https://www.semester.ly){:style="text-decoration: none"}{:target="_blank"},
-a student-run open source project at Johns Hopkins University with the support of several notable faculty members
+a student-run open source project at Johns Hopkins University, supported several notable faculty members
 and administrators.
 
 I'm also a [CIRCUIT Research Fellow](https://www.jhuapl.edu/circuit/){:style="text-decoration: none"}{:target="_blank"} at the
