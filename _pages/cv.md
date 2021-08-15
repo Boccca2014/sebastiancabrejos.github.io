@@ -1,13 +1,18 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /
 ---
 
 {% include base_path %}
+
+LinkedIn
+======
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div style="text-align: center; margin:0 auto;" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sebastian-c2022" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sebastian-c2022?trk=profile-badge"></a></div>
 
 Resume
 ======
@@ -18,12 +23,6 @@ Resume
   height="1200"
   >
 </iframe>
-
-LinkedIn
-======
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div style="text-align: center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sebastian-c2022" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sebastian-c2022?trk=profile-badge"></a></div>
-              
 
 <!-- Education
 ======
