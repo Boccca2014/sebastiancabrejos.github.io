@@ -12,18 +12,18 @@ author_profile: true
 LinkedIn
 ======
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sebastian-c2022" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sebastian-c2022?trk=profile-badge"></a></div>
+<div style="margin:0 auto;" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sebastian-c2022" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sebastian-c2022?trk=profile-badge"></a></div>
 
 Resume
 ======
-<div style="display: flex; justify-content: center;">
-  <iframe 
-    src="https://boccca2014.github.io/files/Sebastian_Cabrejos_Resume_August_2021.pdf#zoom=94" 
-    title="My Resume" 
-    width="80%"
-    height="800px"
-    >
-  </iframe>
+<div style="width: 800px; margin:0 auto;">
+<iframe 
+  src="https://boccca2014.github.io/files/Sebastian_Cabrejos_Resume_August_2021.pdf#zoom=94" 
+  title="My Resume" 
+  width="80%"
+  height="800px"
+  >
+</iframe>
 </div>
 
 <!-- Education
