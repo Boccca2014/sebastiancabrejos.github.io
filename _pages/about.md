@@ -1,14 +1,14 @@
 ---
 permalink: /
 # title: "About Me"
-excerpt: "About me"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### About Me
+## About Me
 
 I'm a Senior pursuing a [Bachelor of Science in Computer Science](https://www.cs.jhu.edu/){:style="text-decoration: none"}{:target="_blank"}
 at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}.
