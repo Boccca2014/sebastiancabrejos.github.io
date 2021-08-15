@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sebastian Cabrejos's Website"
+title                    : "Sebastian Cabrejos"
 title_separator          : "-"
 name                     : &name "Sebastian Cabrejos"
 description              : &description "Computer Science Undergraduate @Johns Hopkins University devoted to using programming to better the world. "
